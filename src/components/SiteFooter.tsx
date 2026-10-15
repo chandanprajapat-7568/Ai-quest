@@ -5,7 +5,6 @@ export default function SiteFooter() {
         <p>
           <strong className="font-semibold text-white">AI Quest</strong> · Made by CHANDAN &amp; CHINMAY BHOOTRA
         </p>
-        <p className="text-slate-400">Runs locally. No database, no accounts, no personal data saved.</p>
       </div>
     </footer>
   );
