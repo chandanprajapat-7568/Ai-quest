@@ -1,0 +1,9 @@
+node_modules/
+.next/
+tsconfig.tsbuildinfo
+e2e-screenshots/
+.env*
+!.env.example
+.vscode/
+__pycache__/
+*.pyc
